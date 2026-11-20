@@ -1,9 +1,9 @@
 {
   "packageName": "com.bradshaw.entertainment",
-  "versionCode": 101,
-  "versionName": "0.2.0",
-  "releaseUrl": "https://github.com/Huckleberry5454/BradshawVault-Releases/releases/tag/v0.2.0",
-  "apkUrl": "https://github.com/Huckleberry5454/BradshawVault-Releases/releases/download/v0.2.0/BradshawsVault-v0.2.0.apk",
-  "sha256": "58bf06f7424c13ee03bcfdb522c5c8e0d241ac86a4643fe3c7a7211d8ac6af10",
-  "apkSize": 19270278
+  "versionCode": 102,
+  "versionName": "0.2.1",
+  "releaseUrl": "https://github.com/Huckleberry5454/BradshawVault-Releases/releases/tag/v0.2.1",
+  "apkUrl": "https://github.com/Huckleberry5454/BradshawVault-Releases/releases/download/v0.2.1/BradshawsVault-v0.2.1.apk",
+  "sha256": "d095e79da5d36ecaab2d26776cf9ef8b4c4bd6639dbbaad7604f5366c9204ec6",
+  "apkSize": 19270015
 }
